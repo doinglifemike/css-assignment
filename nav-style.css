@@ -1,0 +1,46 @@
+div {
+    border: solid;
+    border-color: red;
+    width: auto;
+    
+}
+
+ul {
+    font-family: serif;
+    color: white;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+li {
+    float: none;
+    text-align: center;
+    justify-content: center;
+    padding: 25px;
+    margin: 0px;
+    flex: 1;
+    display: flex;
+}
+
+li:hover {
+    background-color: grey;
+}
+
+.home {
+    background-color: purple;
+    
+}
+
+.links {
+    
+}
+
+.search-bar {
+
+}
+
+.cart {
+
+}
